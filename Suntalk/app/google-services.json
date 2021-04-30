@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826226555709",
+    "project_id": "suntalk-b9e12",
+    "storage_bucket": "suntalk-b9e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826226555709:android:893af08706aa5f7a97e354",
+        "android_client_info": {
+          "package_name": "com.yj.suntalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826226555709-2bj8m0n0piaudgdrhjg67bvai66veks4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4HvDQdeNSCd_dMv40HINOb0SKXjMit14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826226555709-2bj8m0n0piaudgdrhjg67bvai66veks4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
