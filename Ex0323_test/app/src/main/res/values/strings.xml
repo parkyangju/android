@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex0323_test</string>
+    <string-array name="list">
+        <item>1.Android 짱재밌음</item>
+        <item>2.Android 어려움...</item>
+        <item>3.Android 졸림...</item>
+
+    </string-array>
+</resources>

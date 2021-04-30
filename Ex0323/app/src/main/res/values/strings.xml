@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex0323</string>
+    <!-- ListView에 적용될 문자 데이터 지정-->
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+
+    </string-array>
+</resources>
